@@ -4,7 +4,7 @@ Se le considera el padre de los computadores digitales, pues en 1822 construyó 
 En 1834, diseñó la máquina analítica, capaz de realizar toda clase de operaciones con una estructura semejante a la de las computadoras modernas, pero no llegó a construirse, quedando olvidada hasta que se publicaron las notas de Babbage en 1937.
 Contribuyó a la fundación de varias sociedades científicas importantes, a la organización del sistema postal británico, y a la aceptación en Gran Bretaña de la notación de Leibniz para el cálculo diferencial, en colaboración con John Herschel.
 
-?{}https://github.com/Yohali20/Tareas-Lenguajes-Y-Automatas/blob/main/1.jpg 
+![](https://github.com/Yohali20/Tareas-Lenguajes-Y-Automatas/blob/main/1.jpg) 
 
 ## Herman Hollerith
 Estadístico estadounidense considerado uno de los pioneros de la informática por su invención de las máquinas estadísticas de tarjetas o fichas perforadas, con las que logró automatizar los trabajos de cómputo y clasificación de grandes volúmenes de información.
